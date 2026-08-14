@@ -1,0 +1,1 @@
+Zepto allows customers to cancel eligible orders before they are packed and dispatched. If an order has already been packed or shipped, cancellation may not be possible. Any applicable refund is processed according to the payment method and the cancellation policy.
