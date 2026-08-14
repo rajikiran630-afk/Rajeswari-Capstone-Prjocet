@@ -1,0 +1,4 @@
+FINAL MODEL RECOMMENDATION
+==========================
+
+Among the three classification models, Random Forest is recommended for deployment because it achieved the highest test accuracy of 0.8202 and the highest F1 score of 0.7576. It also achieved a recall of 0.7353, meaning it identified a larger proportion of surviving passengers than Logistic Regression and Decision Tree. Logistic Regression achieved the highest AUC of 0.8610, showing strong overall ranking performance, but Random Forest provided the best balance of accuracy, recall, and F1 on the held-out test set. Therefore, Random Forest is selected as the final classifier for deployment.
